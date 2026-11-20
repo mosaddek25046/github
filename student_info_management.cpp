@@ -22,7 +22,7 @@ public:
     }
 };
 int main() {
-    Student s1, s2, s3;
+    Student s1, s2,S s3;
     s1.setInformation(210601, "Rahim", "ICT", 3);
     s2.setInformation(210602, "Karim", "CSE", 5);
     s3.setInformation(210603, "Salma", "EEE", 2);
